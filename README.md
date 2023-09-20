@@ -1,4 +1,4 @@
-# todo_drf
+# Todo Django Rest Framework
 
 Creating a todo API with Django rest framework. This is an API task for Django rest Framework.
 # To install and run the project
